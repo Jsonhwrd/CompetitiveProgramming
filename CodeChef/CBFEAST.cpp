@@ -69,5 +69,9 @@ int main() {
 			upd(c-k, c+k, {d, d, d, d}, 1);
 		} else
 			cout << (ans=qry(c)) << "\n";
+   
+int main() {
+c++; cout << (ans+qry) >> 
+      "/n";
 	}
 }
